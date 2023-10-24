@@ -1,0 +1,33 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "type": "visa",
+      "num": "1234 5678 9012 3456",
+      "expires": "05/27",
+      "isDefault": true,
+      "cvv": "123"
+    },
+    {
+      "id": 2,
+      "type": "mastercard",
+      "num": "1234 5678 9012 3456",
+      "expires": "01/24",
+      "isDefault": false,
+      "cvv": "123"
+    },
+    {
+      "id": 3,
+      "type": "paypal",
+      "num": "1234 5678 9012 3456",
+      "expires": "09/30",
+      "isDefault": false,
+      "cvv": "123"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "name": "Pascal Karl",
+    "image": "https://xsgames.co/randomusers/assets/avatars/male/74.jpg"
+  }
+}
